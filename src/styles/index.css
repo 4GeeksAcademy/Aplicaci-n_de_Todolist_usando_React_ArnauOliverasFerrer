@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+input.border-0:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
